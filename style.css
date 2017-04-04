@@ -2,6 +2,10 @@ body {
   font-family: Helvetica;
 }
 
+h1 {
+  font-weight: 100;
+}
+
 img {
   height: 150px;
   width: 150px;
